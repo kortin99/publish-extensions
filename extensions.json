@@ -579,6 +579,9 @@
   "korekontrol.saltstack": {
     "repository": "https://github.com/korekontrol/vscode-saltstack"
   },
+  "kortin1999.kortin-theme": {
+    "repository": "https://github.com/kortin99/vscode-kortin-theme"
+  },
   "kortina.vscode-markdown-notes": {
     "repository": "https://github.com/kortina/vscode-markdown-notes"
   },
